@@ -9,8 +9,8 @@ var ap2 = new APlayer({
     music: {
         title: '爱你没错',
         author: '张信哲',
-        url: '../assets/ainimeicuo.mp3',
-        pic: '../assets/ainimeicuo.jpg'
+        url: 'http://akagi201.org/mylove/assets/ainimeicuo.mp3',
+        pic: 'http://akagi201.org/mylove/assets/ainimeicuo.jpg'
     }
 });
 
