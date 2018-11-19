@@ -1,2 +1,3 @@
-# mylove
-My lovely girl and me!
+# MyLove
+
+The timeline of my lovely girl and me.
